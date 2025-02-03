@@ -1,0 +1,64 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is behind 'origin/main' by 33 commits, and can be fast-forwarded.
+#   (use "git pull" to update your local branch)
+#
+# Changes to be committed:
+#	new file:   GithHub Connect C code/Armstrongnumberlab.c
+#	new file:   GithHub Connect C code/Armstrongnumberlab.exe
+#	new file:   GithHub Connect C code/DAY-1/index.html
+#	new file:   GithHub Connect C code/DAY-1/index.js
+#	new file:   GithHub Connect C code/Day 2/index.html2
+#	new file:   GithHub Connect C code/Day 2/indexxx.html
+#	new file:   GithHub Connect C code/armInRange.c
+#	new file:   GithHub Connect C code/armInRange.exe
+#	new file:   GithHub Connect C code/array01.c
+#	modified:   GithHub Connect C code/evennumber.c
+#	modified:   GithHub Connect C code/evennumber.exe
+#	modified:   GithHub Connect C code/evenoddnumberwitharray.c
+#	modified:   GithHub Connect C code/evenoddnumberwitharray.exe
+#	new file:   GithHub Connect C code/index.html
+#	new file:   GithHub Connect C code/source
+#	new file:   GithHub Connect C code/sr.c
+#	new file:   GithHub Connect C code/sr.exe
+#	modified:   GithHub Connect C code/srr.c
+#	modified:   GithHub Connect C code/srr.exe
+#	new file:   GithHub Connect C code/test.c
+#	new file:   GithHub Connect C code/wATERMELONE.C
+#	new file:   GithHub Connect C code/wATERMELONE.exe
+#	new file:   index.html
+#	new file:   index.js
+#	new file:   neww.c
+#	new file:   neww.exe
+#	new file:   task01.html
+#	new file:   watermelone.c
+#	new file:   watermelone.exe
+#
+# Changes not staged for commit:
+#	deleted:    GithHub Connect C code/DAY-1/index.html
+#	deleted:    GithHub Connect C code/DAY-1/index.js
+#	modified:   GithHub Connect C code/Day 2/indexxx.html
+#	modified:   GithHub Connect C code/wATERMELONE.exe
+#	deleted:    task01.html
+#	deleted:    watermelone.c
+#	deleted:    watermelone.exe
+#
+# Untracked files:
+#	.vscode/
+#	GithHub Connect C code/Day 2/test.c
+#	GithHub Connect C code/Day 2/test.exe
+#	GithHub Connect C code/JS-st/
+#	GithHub Connect C code/codeforces/
+#	GithHub Connect C code/css1stday3.html
+#	GithHub Connect C code/task01.html
+#	javaWithFoysalVai/
+#	string.c
+#	string.exe
+#	task001.html
+#	wayTooString.c
+#	wayTooString.exe
+#	wayTooString.o
+#
